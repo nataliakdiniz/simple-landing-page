@@ -1,9 +1,8 @@
 # simple-landing-page
-Simple Landing Page
 ![Logo of the project](https://github.com/nataliakdiniz/simple-landing-page/blob/master/image/logo.svg)
 
 
-##  Login-Form
+##  Landing-page
 A simple landing page made with the help of Rafa Ballerini. \o/ 
 Hope you like it!
 
@@ -20,7 +19,7 @@ The languages that were used in this project:
 * Github
 
 
-## See how beautiful it turned out:
+## Our avatar is very cute:
 
 
 ![Homepage image](https://github.com/nataliakdiniz/simple-landing-page/blob/master/image/avatar.svg)
